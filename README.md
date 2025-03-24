@@ -1,14 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I am <a href="http://its-kumar.herokuapp.com">Kumar Shanu</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I am <a href="vishnuvahan.com">Vipul Kumar</a></h1>
 <h2 align="center">A passionate python developer from India 🇮🇳 </h2>
 <h3 align="center">Pythonishta, Data Analyst, Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="its-kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuVahanDas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-kumar&theme=juicyfresh" alt="its-kumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-kumar&theme=juicyfresh" alt="VishnuVahanDas" /></a> </p>
 
 - 💬 Ask me about **Python, Django, Linux,** etc, I'll be happy to help.
 
-- 👨‍💻 Microsoft Azure AI Fundamentals Certified
+- 👨‍💻 Remote Pilot Certificate( Small, Medium)
 
 - 🌱 I’m currently learning **Data Analytics, Data Science**
 
@@ -21,13 +21,13 @@
 ### Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/its-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="its-kumar" height="30" width="40" /></a>
-  <a href="https://instagram.com/its_yours_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="its_yours_kumar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vishnuvahandas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="VishnuVahanDas" height="30" width="40" /></a>
+  <a href="https://instagram.com/vishnu.vahan.das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="VishnuVahanDas" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UC0UWR_ZmYwVic7KPVQ10mhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/youtube.svg" alt="uc0uwr_zmywvic7kpvq10mhw" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/kumarshanu1009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="kumarshanu1009" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/its-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/leet-code.svg" alt="its-kumar" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@prince_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerearth.svg" alt="@prince_k" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/prince_k/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/geeks-for-geeks.svg" alt="prince_k/profile" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/vishnuvahndas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="VishnuVahanDas" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/iVishnuVahanDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/leet-code.svg" alt="VishnuVahanDas" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@VishnuVahanDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerearth.svg" alt="@VishnuVahanDas" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/VishnuVahanDas/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/geeks-for-geeks.svg" alt="VishnuVahanDas/profile" height="30" width="40" /></a>
 </p>
 
 ### Analytics
